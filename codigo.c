@@ -44,7 +44,7 @@ int main( int argc, char *argv[] )
       break;
       default: {
 	 printf("Test =%d caso invalido probar del 1 al 5\n",d);
-      }
+      
       break;
       
    }
